@@ -1,3 +1,11 @@
+  ---
+
+title: "Te doy la bienvenida a mi blog"
+
+date: 2019-01-20
+
+---
+  
   Learning is a passion that I nurture. It has been the best of the network to be able to have very close information to analyze, acquire and share.
 
 En castellano:
