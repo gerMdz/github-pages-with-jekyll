@@ -1,4 +1,4 @@
-  ---
+---
 
 title: "Te doy la bienvenida a mi blog"
 
